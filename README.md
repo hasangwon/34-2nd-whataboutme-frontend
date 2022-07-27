@@ -2,7 +2,7 @@
 🔶 개요: 여행지 주변의 모텔, 호텔, 게스트하우스를 예약할 수 있는 사이트<br>
 🔶 참여 인원: Front-End 3명 : <br>
     -[김민석](https://github.com/conqueror-G) : Nav, Main-Page <br>
-    -[안유주](https://github.com/yuju) : Detail-Page<br>
+    -[안유주](https://github.com/yujuann) : Detail-Page<br>
     -[하상원](https://github.com/hasangwon) : List-Page<br>
 🔶 제작 기간: 2022.07.07 ~ 2022.07.14<br>
 🔶 협업 툴: Slack, Notion<br>
